@@ -1,4 +1,4 @@
-"Stimulus Contoller": {
+"Stimulus Controller": {
 	"prefix": "stmc",
 	"body": [
 		"import { Controller } from 'stimulus';",
@@ -13,5 +13,5 @@
 		"",
 		"export default ${1:name};"
 	],
-	"description": "Stimulus Contoller Boilerplate"
+	"description": "Stimulus Controller Boilerplate"
 }
