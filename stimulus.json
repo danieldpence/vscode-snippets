@@ -1,0 +1,17 @@
+	"Stimulus Contoller": {
+		"prefix": "stmc",
+		"body": [
+			"import { Controller } from 'stimulus';",
+			"",
+			"class ${1:name} extends Controller {",
+			"  static targets = [];",
+			"",
+			"  initialize() {",
+			"",
+			"  }",
+			"}",
+			"",
+			"export default ${1:name};"
+		],
+		"description": "Stimulus Contoller Boilerplate"
+	}
